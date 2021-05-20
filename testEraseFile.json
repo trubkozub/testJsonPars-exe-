@@ -1,0 +1,12 @@
+﻿{
+  "section1": {
+    "valuel": "x",
+    "value5": "x5",
+    "subsection1": {{{
+      "value2": "y",
+      "subsection3": {
+        "value3": "z"
+      }
+    }
+  }
+}

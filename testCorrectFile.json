@@ -1,0 +1,37 @@
+﻿{
+  "section1": {
+    "value1": "x",
+    "value1": "x5",
+    "value1": "x6",
+    "subsection1": {
+      "value2": "y",
+      "subsection3": {
+        "value3": "z"
+      }
+    }
+  },
+
+  "section2": {
+    "value1": "x10",
+    "value1": "x50",
+    "value1": "x60",
+    "subsection1": {
+      "value2": "y0",
+      "subsection3": {
+        "value3": "z0"
+      }
+    }
+  },
+
+  "section3": {
+    "value1": "x10",
+    "value1": "x50",
+    "value1": "x60",
+    "subsection1": {
+      "value2": "y0",
+      "subsection3": {
+        "value3": "z0"
+      }
+    }
+  }
+}
