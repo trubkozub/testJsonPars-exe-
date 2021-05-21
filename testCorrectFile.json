@@ -1,37 +1,29 @@
-﻿{
+﻿[
+{    
   "section1": {
-    "value1": "x",
-    "value1": "x5",
-    "value1": "x6",
+    "value1": "x1",
+    "value2": "x2",
+    "value3": "x3",
     "subsection1": {
-      "value2": "y",
+      "value2": "y1",
       "subsection3": {
-        "value3": "z"
+        "value3": "z1"
       }
     }
-  },
+  }
+},
 
-  "section2": {
+{    
+  "section1": {
     "value1": "x10",
-    "value1": "x50",
-    "value1": "x60",
+    "value2": "x20",
+    "value3": "x30",
     "subsection1": {
-      "value2": "y0",
+      "value2": "y10",
       "subsection3": {
-        "value3": "z0"
-      }
-    }
-  },
-
-  "section3": {
-    "value1": "x10",
-    "value1": "x50",
-    "value1": "x60",
-    "subsection1": {
-      "value2": "y0",
-      "subsection3": {
-        "value3": "z0"
+        "value3": "z10"
       }
     }
   }
 }
+]
